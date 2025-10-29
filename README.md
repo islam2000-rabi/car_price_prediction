@@ -63,11 +63,3 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 - **Actual vs. Predicted Scatter Plot**: Shows how close model predictions are to real prices.
 - **Residuals Histogram**: Visualizes the distribution of prediction errors.
-
-## Author
-
-- [Your Name Here] (replace with your actual name or GitHub handle)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
